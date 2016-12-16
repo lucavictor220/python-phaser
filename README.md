@@ -13,8 +13,8 @@ If don't have python and git follow instractions on the following links:
 ## Getting started:
 
 1. `git init`
-2. `git remote add origin https://github.com/lucavictor220/python-phaser.git`
-3. `git pull origin master`
+2. `git clone https://github.com/lucavictor220/python-phaser.git`
+3. `cd python-phaser`
 4. `python -m SimpleHTTPServer`
 
 
