@@ -5,13 +5,16 @@
 - python
 - git
 
-If you don't have those follow steps on the following links:
-- [Install node.js](http://blog.teamtreehouse.com/install-node-js-npm-windows)
+If don't have python and git follow instractions on the following links:
 - [Install git](https://www.atlassian.com/git/tutorials/install-git/linux)
+- [Install python](http://docs.python-guide.org/en/latest/starting/install/win/)
 
 
 ## Getting started:
 
+`git init`
+`git remote add origin https://github.com/lucavictor220/python-phaser.git`
+`git pull origin master`
 `python -m SimpleHTTPServer`
 
 
